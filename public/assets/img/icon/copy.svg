@@ -1,0 +1,22 @@
+<svg id="Group_27" data-name="Group 27" xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="0 0 20 15">
+  <g id="Group_29" data-name="Group 29">
+    <g id="Path_11" data-name="Path 11" fill="#fff">
+      <path d="M 19.25 14.25 L 0.75 14.25 L 0.75 0.75 L 14.26434993743896 0.75 L 19.25 5.927402496337891 L 19.25 14.25 Z" stroke="none"/>
+      <path d="M 1.5 1.5 L 1.5 13.5 L 18.5 13.5 L 18.5 6.229804992675781 L 13.94536972045898 1.5 L 1.5 1.5 M 0 0 L 14.58333015441895 0 L 20 5.625 L 20 15 L 0 15 L 0 0 Z" stroke="none" fill="#6d7d93"/>
+    </g>
+    <line id="Line_9" data-name="Line 9" x2="10" transform="translate(3.5 10.5)" fill="none" stroke="#6d7d93" stroke-width="1.5"/>
+    <line id="Line_10" data-name="Line 10" x2="5" transform="translate(3.5 7.5)" fill="none" stroke="#6d7d93" stroke-width="1.5"/>
+  </g>
+  <g id="Group_28" data-name="Group 28">
+    <g id="Path_13" data-name="Path 13" fill="#fff" opacity="0.1">
+      <path d="M 19.25 14.25 L 0.75 14.25 L 0.75 0.75 L 14.58333015441895 0.75 L 19.25 0.75 L 19.25 5.625 L 19.25 14.25 Z" stroke="none"/>
+      <path d="M 1.5 1.5 L 1.5 13.5 L 18.5 13.5 L 18.5 1.5 L 1.5 1.5 M 0 0 L 20 0 L 20 15 L 0 15 L 0 0 Z" stroke="none" fill="#6d7d93"/>
+    </g>
+    <g id="Path_11-2" data-name="Path 11" fill="#fff">
+      <path d="M 19.25 14.25 L 0.75 14.25 L 0.75 0.75 L 14.26434993743896 0.75 L 19.25 5.927402496337891 L 19.25 14.25 Z" stroke="none"/>
+      <path d="M 1.5 1.5 L 1.5 13.5 L 18.5 13.5 L 18.5 6.229804992675781 L 13.94536972045898 1.5 L 1.5 1.5 M 0 0 L 14.58333015441895 0 L 20 5.625 L 20 15 L 0 15 L 0 0 Z" stroke="none" fill="#6d7d93"/>
+    </g>
+    <line id="Line_9-2" data-name="Line 9" x2="10" transform="translate(3.5 10.5)" fill="none" stroke="#6d7d93" stroke-width="1.5"/>
+    <line id="Line_10-2" data-name="Line 10" x2="5" transform="translate(3.5 7.5)" fill="none" stroke="#6d7d93" stroke-width="1.5"/>
+  </g>
+</svg>

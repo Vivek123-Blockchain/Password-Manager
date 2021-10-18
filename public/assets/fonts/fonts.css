@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Aeonik";
+  src: url("Aeonik-Bold.otf") format("OpenType");
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Aeonik";
+  src: url("Aeonik-Light.otf") format("OpenType");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Aeonik";
+  src: url("Aeonik-Regular.otf") format("OpenType");
+  font-weight: 600;
+}
